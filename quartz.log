@@ -1,0 +1,11 @@
+2020/01/06-22:31 [main] INFO  com.example.quartz.QuartzApplication- Starting QuartzApplication on LAPTOP-IA2P56V2 with PID 18012 (C:\Users\syf\IdeaProjects\quartz\target\classes started by syf in C:\Users\syf\IdeaProjects\quartz)
+2020/01/06-22:31 [main] INFO  com.example.quartz.QuartzApplication- No active profile set, falling back to default profiles: default
+2020/01/06-22:31 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 8080 (http)
+2020/01/06-22:31 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2020/01/06-22:31 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020/01/06-22:31 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2020/01/06-22:31 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 923 ms
+2020/01/06-22:31 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2020/01/06-22:31 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 8080 (http) with context path ''
+2020/01/06-22:31 [main] INFO  com.example.quartz.QuartzApplication- Started QuartzApplication in 1.863 seconds (JVM running for 3.245)
+2020/01/06-22:31 [main] INFO  com.example.quartz.QuartzApplication- 项目启动！！
